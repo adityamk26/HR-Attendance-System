@@ -3,3 +3,8 @@
    __pycache__/
    sample_data/
    sample_seed.py
+
+.venv/
+env/
+.env
+
